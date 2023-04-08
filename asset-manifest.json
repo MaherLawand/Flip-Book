@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Flip-Book/static/css/main.0b8d209a.css",
+    "main.js": "/Flip-Book/static/js/main.5fa6aab3.js",
+    "static/js/787.2832780c.chunk.js": "/Flip-Book/static/js/787.2832780c.chunk.js",
+    "static/media/meyaditemp.mp3": "/Flip-Book/static/media/meyaditemp.cdbb83339d612a9d3fe9.mp3",
+    "static/media/pdf.worker.js": "/Flip-Book/static/media/pdf.worker.b011133646a1c09a581d.js",
+    "static/media/page-flip-8.mp3": "/Flip-Book/static/media/page-flip-8.a9b4a0c1332382aef9e2.mp3",
+    "index.html": "/Flip-Book/index.html",
+    "main.0b8d209a.css.map": "/Flip-Book/static/css/main.0b8d209a.css.map",
+    "main.5fa6aab3.js.map": "/Flip-Book/static/js/main.5fa6aab3.js.map",
+    "787.2832780c.chunk.js.map": "/Flip-Book/static/js/787.2832780c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8d209a.css",
+    "static/js/main.5fa6aab3.js"
+  ]
+}
