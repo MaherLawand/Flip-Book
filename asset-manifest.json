@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Flip-Book/static/css/main.1c92d07f.css",
-    "main.js": "/Flip-Book/static/js/main.ca801abb.js",
+    "main.js": "/Flip-Book/static/js/main.8d190779.js",
     "static/js/787.2832780c.chunk.js": "/Flip-Book/static/js/787.2832780c.chunk.js",
     "static/media/doc2merged.mp3": "/Flip-Book/static/media/doc2merged.bc03714858582c435c12.mp3",
     "static/media/loading.gif": "/Flip-Book/static/media/loading.d5beb59cfc12709dde53.gif",
@@ -9,11 +9,11 @@
     "static/media/page-flip-8.mp3": "/Flip-Book/static/media/page-flip-8.a9b4a0c1332382aef9e2.mp3",
     "index.html": "/Flip-Book/index.html",
     "main.1c92d07f.css.map": "/Flip-Book/static/css/main.1c92d07f.css.map",
-    "main.ca801abb.js.map": "/Flip-Book/static/js/main.ca801abb.js.map",
+    "main.8d190779.js.map": "/Flip-Book/static/js/main.8d190779.js.map",
     "787.2832780c.chunk.js.map": "/Flip-Book/static/js/787.2832780c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c92d07f.css",
-    "static/js/main.ca801abb.js"
+    "static/js/main.8d190779.js"
   ]
 }
