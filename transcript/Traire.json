@@ -33,14 +33,8 @@
           "Speaker": ""
         },
         {
-          "Word": "a",
+          "Word": "Akand's",
           "data_start": 1.67,
-          "data_end": 1.78,
-          "Speaker": ""
-        },
-        {
-          "Word": "cans",
-          "data_start": 1.79,
           "data_end": 2.15,
           "Speaker": ""
         },
@@ -14127,7 +14121,7 @@
           "Speaker": ""
         }
       ],
-      "data_start": "00:14:46.86",
+      "data_start": 886.86,
       "data_end":  886.86
     }
   ]
