@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Flip-Book/static/css/main.0f14d589.css",
-    "main.js": "/Flip-Book/static/js/main.2171e667.js",
+    "main.js": "/Flip-Book/static/js/main.9d2ac1e3.js",
     "static/js/787.2832780c.chunk.js": "/Flip-Book/static/js/787.2832780c.chunk.js",
     "static/media/loading.gif": "/Flip-Book/static/media/loading.d5beb59cfc12709dde53.gif",
     "static/media/pdf.worker.js": "/Flip-Book/static/media/pdf.worker.b011133646a1c09a581d.js",
     "static/media/page-flip-8.mp3": "/Flip-Book/static/media/page-flip-8.a9b4a0c1332382aef9e2.mp3",
     "index.html": "/Flip-Book/index.html",
     "main.0f14d589.css.map": "/Flip-Book/static/css/main.0f14d589.css.map",
-    "main.2171e667.js.map": "/Flip-Book/static/js/main.2171e667.js.map",
+    "main.9d2ac1e3.js.map": "/Flip-Book/static/js/main.9d2ac1e3.js.map",
     "787.2832780c.chunk.js.map": "/Flip-Book/static/js/787.2832780c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f14d589.css",
-    "static/js/main.2171e667.js"
+    "static/js/main.9d2ac1e3.js"
   ]
 }

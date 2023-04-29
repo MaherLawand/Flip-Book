@@ -645,6 +645,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 40.55,
+          "data_end": 40.58,
+          "Speaker": ""
+        },
+        {
           "Word": "hospitable,",
           "data_start": 40.58,
           "data_end": 41.45,
@@ -1089,14 +1095,8 @@
           "Speaker": ""
         },
         {
-          "Word": "Under",
+          "Word": "UnderKingdom",
           "data_start": 67.02,
-          "data_end": 67.29,
-          "Speaker": ""
-        },
-        {
-          "Word": "Kingdom",
-          "data_start": 67.29,
           "data_end": 67.62,
           "Speaker": ""
         },
@@ -4089,6 +4089,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 241.95,
+          "data_end": 241.98,
+          "Speaker": ""
+        },
+        {
           "Word": "especially",
           "data_start": 241.98,
           "data_end": 242.67,
@@ -4485,6 +4491,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 265.95,
+          "data_end": 265.95,
+          "Speaker": ""
+        },
+        {
           "Word": "Some",
           "data_start": 265.95,
           "data_end": 266.34,
@@ -4686,6 +4698,12 @@
           "Word": "OLD",
           "data_start": 277.2,
           "data_end": 277.77,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start": 277.77,
+          "data_end": 277.8,
           "Speaker": ""
         },
         {
@@ -5115,6 +5133,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 301.89,
+          "data_end": 302.13,
+          "Speaker": ""
+        },
+        {
           "Word": "The",
           "data_start": 302.13,
           "data_end": 302.52,
@@ -5394,6 +5418,12 @@
           "Word": "Druidism.",
           "data_start": 315.93,
           "data_end": 317.04,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start": 317.04,
+          "data_end": 317.37,
           "Speaker": ""
         },
         {
@@ -5838,6 +5868,12 @@
           "Word": "uprooted",
           "data_start": 341.48,
           "data_end": 342.5,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start": 342.5,
+          "data_end": 343.04,
           "Speaker": ""
         },
         {
@@ -6903,14 +6939,8 @@
           "Speaker": ""
         },
         {
-          "Word": "non",
+          "Word": "non-druidic",
           "data_start": 402.54,
-          "data_end": 402.81,
-          "Speaker": ""
-        },
-        {
-          "Word": "druidic",
-          "data_start": 402.81,
           "data_end": 403.32,
           "Speaker": ""
         },
@@ -8115,6 +8145,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 476.86,
+          "data_end": 477.49,
+          "Speaker": ""
+        },
+        {
           "Word": "It",
           "data_start": 477.49,
           "data_end": 477.76,
@@ -8295,6 +8331,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 486.52,
+          "data_end": 487.21,
+          "Speaker": ""
+        },
+        {
           "Word": "In",
           "data_start": 487.21,
           "data_end": 487.54,
@@ -8463,6 +8505,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 500.55,
+          "data_end": 500.67,
+          "Speaker": ""
+        },
+        {
           "Word": "Her",
           "data_start": 500.67,
           "data_end": 500.97,
@@ -8517,14 +8565,8 @@
           "Speaker": ""
         },
         {
-          "Word": "on",
+          "Word": "onto",
           "data_start": 502.71,
-          "data_end": 502.83,
-          "Speaker": ""
-        },
-        {
-          "Word": "to",
-          "data_start": 502.83,
           "data_end": 502.92,
           "Speaker": ""
         },
@@ -8829,6 +8871,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 524.05,
+          "data_end": 524.05,
+          "Speaker": ""
+        },
+        {
           "Word": "depicted",
           "data_start": 524.05,
           "data_end": 524.8,
@@ -9090,6 +9138,12 @@
           "Word": "Arrow.",
           "data_start": 537.04,
           "data_end": 537.76,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start":537.76,
+          "data_end": 538.15,
           "Speaker": ""
         },
         {
@@ -9432,6 +9486,12 @@
           "Word": "death.",
           "data_start": 557.79,
           "data_end": 558.45,
+          "Speaker": ""
+        },
+        {
+          "Word": "death.",
+          "data_start": 558.45,
+          "data_end": 558.57,
           "Speaker": ""
         },
         {
@@ -10977,6 +11037,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 647.64,
+          "data_end": 647.65,
+          "Speaker": ""
+        },
+        {
           "Word": "Those",
           "data_start": 647.65,
           "data_end": 648.28,
@@ -12309,8 +12375,14 @@
           "Speaker": ""
         },
         {
-          "Word": 500,
+          "Word": "five",
           "data_start": 721.54,
+          "data_end": 721.74,
+          "Speaker": ""
+        },
+        {
+          "Word": "hundred",
+          "data_start": 721.74,
           "data_end": 722.08,
           "Speaker": ""
         },
