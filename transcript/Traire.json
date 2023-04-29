@@ -759,14 +759,8 @@
           "Speaker": ""
         },
         {
-          "Word": "ever",
+          "Word": "ever-present",
           "data_start": 51.35,
-          "data_end": 51.59,
-          "Speaker": ""
-        },
-        {
-          "Word": "present",
-          "data_start": 51.59,
           "data_end": 52.04,
           "Speaker": ""
         },
@@ -1797,14 +1791,8 @@
           "Speaker": ""
         },
         {
-          "Word": "ever",
+          "Word": "ever-shifting",
           "data_start": 121.32,
-          "data_end": 121.62,
-          "Speaker": ""
-        },
-        {
-          "Word": "shifting",
-          "data_start": 121.62,
           "data_end": 122.22,
           "Speaker": ""
         },
@@ -2343,7 +2331,7 @@
           "Speaker": ""
         },
         {
-          "Word": "Trair",
+          "Word": "Traire",
           "data_start": 150.48,
           "data_end": 150.9,
           "Speaker": ""
@@ -2367,14 +2355,8 @@
           "Speaker": ""
         },
         {
-          "Word": "reverse",
+          "Word": "reverse-engineer",
           "data_start": 151.71,
-          "data_end": 152.13,
-          "Speaker": ""
-        },
-        {
-          "Word": "engineer",
-          "data_start": 152.13,
           "data_end": 152.67000000000002,
           "Speaker": ""
         },
@@ -3063,14 +3045,8 @@
           "Speaker": ""
         },
         {
-          "Word": "one",
+          "Word": "one-up",
           "data_start": 197.87,
-          "data_end": 198.07999999999998,
-          "Speaker": ""
-        },
-        {
-          "Word": "up",
-          "data_start": 198.07999999999998,
           "data_end": 198.38,
           "Speaker": ""
         },
@@ -6057,14 +6033,8 @@
           "Speaker": ""
         },
         {
-          "Word": "ever",
+          "Word": "ever-ambitious",
           "data_start": 393.49,
-          "data_end": 393.79,
-          "Speaker": ""
-        },
-        {
-          "Word": "ambitious",
-          "data_start": 393.79,
           "data_end": 394.36,
           "Speaker": ""
         },
@@ -6483,14 +6453,8 @@
           "Speaker": ""
         },
         {
-          "Word": "sea",
+          "Word": "sea-dragon",
           "data_start": 419.4,
-          "data_end": 419.64,
-          "Speaker": ""
-        },
-        {
-          "Word": "dragon",
-          "data_start": 419.67,
           "data_end": 420.03,
           "Speaker": ""
         },
@@ -6567,14 +6531,8 @@
           "Speaker": ""
         },
         {
-          "Word": "serpent",
+          "Word": "serpent-like",
           "data_start": 423.96,
-          "data_end": 424.44,
-          "Speaker": ""
-        },
-        {
-          "Word": "like",
-          "data_start": 424.44,
           "data_end": 424.74,
           "Speaker": ""
         },
@@ -6879,14 +6837,8 @@
           "Speaker": ""
         },
         {
-          "Word": "end",
+          "Word": "end-times",
           "data_start": 443.08,
-          "data_end": 443.41,
-          "Speaker": ""
-        },
-        {
-          "Word": "times",
-          "data_start": 443.44,
           "data_end": 443.92,
           "Speaker": ""
         },
@@ -7971,15 +7923,9 @@
           "Speaker": ""
         },
         {
-          "Word": "never",
+          "Word": "never-ending",
           "data_start": 511.76,
-          "data_end": 512.03,
-          "Speaker": ""
-        },
-        {
-          "Word": "ending",
-          "data_start": 512.03,
-          "data_end": 512.45,
+          "data_end":  512.45,
           "Speaker": ""
         },
         {
@@ -9399,15 +9345,9 @@
           "Speaker": ""
         },
         {
-          "Word": "rum",
+          "Word": "rum-fueled",
           "data_start": 589.13,
-          "data_end": 589.52,
-          "Speaker": ""
-        },
-        {
-          "Word": "fueled",
-          "data_start": 589.55,
-          "data_end": 590.0,
+          "data_end":  590.0,
           "Speaker": ""
         },
         {
@@ -9999,14 +9939,8 @@
           "Speaker": ""
         },
         {
-          "Word": "on",
+          "Word": "onto",
           "data_start": 625.31,
-          "data_end": 625.49,
-          "Speaker": ""
-        },
-        {
-          "Word": "to",
-          "data_start": 625.49,
           "data_end": 625.61,
           "Speaker": ""
         },
@@ -11313,14 +11247,8 @@
           "Speaker": ""
         },
         {
-          "Word": "jaw",
+          "Word": "jawbones",
           "data_start": 708.73,
-          "data_end": 709.03,
-          "Speaker": ""
-        },
-        {
-          "Word": "bones",
-          "data_start": 709.03,
           "data_end": 709.39,
           "Speaker": ""
         },
@@ -11703,14 +11631,8 @@
           "Speaker": ""
         },
         {
-          "Word": "sea",
+          "Word": "sea-based",
           "data_start": 733.13,
-          "data_end": 733.43,
-          "Speaker": ""
-        },
-        {
-          "Word": "based",
-          "data_start": 733.43,
           "data_end": 733.79,
           "Speaker": ""
         },
@@ -11946,12 +11868,6 @@
           "Word": "traer",
           "data_start": 747.59,
           "data_end": 747.95,
-          "Speaker": ""
-        },
-        {
-          "Word": "have",
-          "data_start": 747.95,
-          "data_end": 748.16,
           "Speaker": ""
         },
         {
@@ -12354,12 +12270,6 @@
           "Word": "Still,",
           "data_start": 777.44,
           "data_end": 778.07,
-          "Speaker": ""
-        },
-        {
-          "Word": "all",
-          "data_start": 778.17,
-          "data_end": 778.37,
           "Speaker": ""
         },
         {
@@ -13827,14 +13737,8 @@
           "Speaker": ""
         },
         {
-          "Word": "poverty",
+          "Word": "poverty-stricken",
           "data_start": 864.51,
-          "data_end": 864.93,
-          "Speaker": ""
-        },
-        {
-          "Word": "stricken",
-          "data_start": 864.96,
           "data_end": 865.38,
           "Speaker": ""
         },
@@ -14061,14 +13965,8 @@
           "Speaker": ""
         },
         {
-          "Word": "mutual",
+          "Word": "mutual-benfit",
           "data_start": 882.33,
-          "data_end": 882.75,
-          "Speaker": ""
-        },
-        {
-          "Word": "benefit",
-          "data_start": 882.78,
           "data_end": 883.2,
           "Speaker": ""
         },
