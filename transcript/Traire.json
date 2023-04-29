@@ -4083,14 +4083,8 @@
           "Speaker": ""
         },
         {
-          "Word": "land",
+          "Word": "landowning",
           "data_start": 263.39,
-          "data_end": 263.75,
-          "Speaker": ""
-        },
-        {
-          "Word": "owning",
-          "data_start": 263.75,
           "data_end": 264.08,
           "Speaker": ""
         },
@@ -4749,6 +4743,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 308.13,
+          "data_end": 308.16,
+          "Speaker": ""
+        },
+        {
           "Word": "The",
           "data_start": 308.16,
           "data_end": 308.61,
@@ -4983,14 +4983,8 @@
           "Speaker": ""
         },
         {
-          "Word": "a",
+          "Word": "aquranism",
           "data_start": 323.09,
-          "data_end": 323.21,
-          "Speaker": ""
-        },
-        {
-          "Word": "quranism",
-          "data_start": 323.21,
           "data_end": 323.93,
           "Speaker": ""
         },
@@ -5202,6 +5196,12 @@
           "Word": "trespassed.",
           "data_start": 336.44,
           "data_end": 337.31,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start": 337.31,
+          "data_end": 337.34000000000003,
           "Speaker": ""
         },
         {
@@ -5682,6 +5682,12 @@
           "Word": "Bank.",
           "data_start": 371.92,
           "data_end": 372.58,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start": 372.58,
+          "data_end": 373.12,
           "Speaker": ""
         },
         {
@@ -6243,6 +6249,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 407.53,
+          "data_end": 408.54,
+          "Speaker": ""
+        },
+        {
           "Word": "The",
           "data_start": 408.54,
           "data_end": 408.78,
@@ -6581,6 +6593,12 @@
         {
           "Word": "pearls,",
           "data_start": 428.59,
+          "data_end": 429.13,
+          "Speaker": ""
+        },
+        {
+          "Word": "-",
+          "data_start": 429.13,
           "data_end": 429.13,
           "Speaker": ""
         },
@@ -7925,7 +7943,7 @@
         {
           "Word": "never-ending",
           "data_start": 511.76,
-          "data_end":  512.45,
+          "data_end": 512.45,
           "Speaker": ""
         },
         {
@@ -9347,7 +9365,7 @@
         {
           "Word": "rum-fueled",
           "data_start": 589.13,
-          "data_end":  590.0,
+          "data_end": 590.0,
           "Speaker": ""
         },
         {
@@ -9510,9 +9528,9 @@
       "data_start": 599.99,
       "data_end": 600.14
     },
+    {
+      "words": [
         {
-          "words" : [
-            {
           "Word": "Another",
           "data_start": 600.14,
           "data_end": 600.68,
@@ -10353,6 +10371,12 @@
           "Speaker": ""
         },
         {
+          "Word": "-",
+          "data_start": 650.36,
+          "data_end": 650.98,
+          "Speaker": ""
+        },
+        {
           "Word": "In",
           "data_start": 650.98,
           "data_end": 651.31,
@@ -10827,14 +10851,8 @@
           "Speaker": ""
         },
         {
-          "Word": "other",
+          "Word": "otherworldly",
           "data_start": 679.42,
-          "data_end": 679.69,
-          "Speaker": ""
-        },
-        {
-          "Word": "worldly",
-          "data_start": 679.69,
           "data_end": 680.2,
           "Speaker": ""
         },
@@ -14020,7 +14038,7 @@
         }
       ],
       "data_start": 886.86,
-      "data_end":  886.86
+      "data_end": 886.86
     }
   ]
 }
