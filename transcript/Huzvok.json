@@ -6386,50 +6386,50 @@
     },
     {
       "words": [
+        // {
+        //   "Word": "A",
+        //   "data_start": 396.04,
+        //   "data_end": 396.28,
+        //   "Speaker": "Speaker1"
+        // },
+        // {
+        //   "Word": "dwarf",
+        //   "data_start": 396.28,
+        //   "data_end": 396.61,
+        //   "Speaker": "Speaker1"
+        // },
+        // {
+        //   "Word": "without",
+        //   "data_start": 396.61,
+        //   "data_end": 397.0,
+        //   "Speaker": "Speaker1"
+        // },
+        // {
+        //   "Word": "faith",
+        //   "data_start": 397.0,
+        //   "data_end": 397.36,
+        //   "Speaker": "Speaker1"
+        // },
+        // {
+        //   "Word": "wanders",
+        //   "data_start": 397.36,
+        //   "data_end": 397.81,
+        //   "Speaker": "Speaker1"
+        // },
+        // {
+        //   "Word": "lost,",
+        //   "data_start": 397.81,
+        //   "data_end": 398.47,
+        //   "Speaker": "Speaker1"
+        // },
+        // {
+        //   "Word": "shrouded",
+        //   "data_start": 398.5,
+        //   "data_end": 399.22,
+        //   "Speaker": "Speaker1"
+        // },
         {
-          "Word": "A",
-          "data_start": 396.04,
-          "data_end": 396.28,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "dwarf",
-          "data_start": 396.28,
-          "data_end": 396.61,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "without",
-          "data_start": 396.61,
-          "data_end": 397.0,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "faith",
-          "data_start": 397.0,
-          "data_end": 397.36,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "wanders",
-          "data_start": 397.36,
-          "data_end": 397.81,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "lost,",
-          "data_start": 397.81,
-          "data_end": 398.47,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "shrouded",
-          "data_start": 398.5,
-          "data_end": 399.22,
-          "Speaker": "Speaker1"
-        },
-        {
-          "Word": "in",
+          "Word": "In",
           "data_start": 399.22,
           "data_end": 399.37,
           "Speaker": "Speaker1"
